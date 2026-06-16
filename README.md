@@ -20,3 +20,4 @@
 - [Context rot](https://www.trychroma.com/research/context-rot)
 - [Bedrock-mantle brings a new console and openai/anthropic compatible APIs](https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/)
 - [Intelligent prompt routing](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
+- [AppConfig for dynamic configuration](https://docs.aws.amazon.com/appconfig/latest/userguide/what-is-appconfig.html)
