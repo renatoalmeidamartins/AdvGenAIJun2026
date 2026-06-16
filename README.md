@@ -47,3 +47,4 @@
 - [Using bedrock data automation](https://aws.amazon.com/blogs/machine-learning/optimize-blueprint-extraction-accuracy-in-amazon-bedrock-data-automation/)
 - [Bedrock flow samples](https://github.com/aws-samples/amazon-bedrock-flows-samples)
 - [Optimize generative AI applications with pgvector indexing: A deep dive into IVFFlat and HNSW techniques](https://aws.amazon.com/blogs/database/optimize-generative-ai-applications-with-pgvector-indexing-a-deep-dive-into-ivfflat-and-hnsw-techniques/)
+- [Lambda best practices](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
