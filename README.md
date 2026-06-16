@@ -29,3 +29,5 @@
 - [Application signals - SLI/SLO availability in CloudWatch](https://aws.amazon.com/blogs/mt/amazon-cloudwatch-application-signals-new-enhancements-for-application-monitoring/)
 - [Cost-allocation tags](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/activating-tags.html)
 - [Prompt caching](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-caching.html)
+- [Durable functions in Lambda](https://docs.aws.amazon.com/lambda/latest/dg/durable-functions.html)
+- [Data Quality in Glue](https://docs.aws.amazon.com/glue/latest/dg/glue-data-quality.html)
