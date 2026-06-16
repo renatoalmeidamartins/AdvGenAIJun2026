@@ -5,3 +5,11 @@
 
 ## Class links
 - [Sagemaker built-in algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
+- [Well architected framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
+- Well-architected framework generative AI lens:
+  - [Documentation](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/generative-ai-lens.html)
+  - [Blog announcement](https://aws.amazon.com/blogs/architecture/announcing-the-aws-well-architected-generative-ai-lens/)
+- Well architected framework ML lens:
+  - [Documentation](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/machine-learning-lens.html)
+  - [Blog announcement](https://aws.amazon.com/blogs/architecture/announcing-the-updated-aws-well-architected-machine-learning-lens/)
+- 
