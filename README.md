@@ -14,3 +14,4 @@
   - [Blog announcement](https://aws.amazon.com/blogs/architecture/announcing-the-updated-aws-well-architected-machine-learning-lens/)
 - [Automatic model evaluation jobs](https://docs.aws.amazon.com/bedrock/latest/userguide/evaluation-automatic.html) 
 - [Built-in evaluation metrics for LLM-as-a-judge](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-metrics.html)
+- [Sagemaker AI's Augmented AI, for creating humanm review workflows](https://docs.aws.amazon.com/sagemaker/latest/dg/a2i-getting-started.html)
