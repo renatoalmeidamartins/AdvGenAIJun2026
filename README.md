@@ -18,3 +18,4 @@
 - [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
 - [Prompt engineering on AWS](https://aws.amazon.com/what-is/prompt-engineering/)
 - [Context rot](https://www.trychroma.com/research/context-rot)
+- [Bedrock-mantle brings a new console and openai/anthropic compatible APIs](https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/)
