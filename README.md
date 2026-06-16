@@ -31,3 +31,4 @@
 - [Prompt caching](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-caching.html)
 - [Durable functions in Lambda](https://docs.aws.amazon.com/lambda/latest/dg/durable-functions.html)
 - [Data Quality in Glue](https://docs.aws.amazon.com/glue/latest/dg/glue-data-quality.html)
+- [Paper with the first mention to MLOps](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
