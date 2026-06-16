@@ -27,3 +27,4 @@
 - [Route 53 routing policies](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
 - [SLO definition](https://sre.google/sre-book/service-level-objectives/)
 - [Application signals - SLI/SLO availability in CloudWatch](https://aws.amazon.com/blogs/mt/amazon-cloudwatch-application-signals-new-enhancements-for-application-monitoring/)
+- [Cost-allocation tags](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/activating-tags.html)
