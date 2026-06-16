@@ -4,3 +4,4 @@
 - [Access to lab and books](https://us-east-1.student.classrooms.aws.training/class/ilt%23kaGZbDug1jPqTMiswChYWZ)
 
 ## Class links
+- [Sagemaker built-in algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
