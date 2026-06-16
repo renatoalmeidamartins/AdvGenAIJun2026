@@ -12,4 +12,5 @@
 - Well architected framework ML lens:
   - [Documentation](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/machine-learning-lens.html)
   - [Blog announcement](https://aws.amazon.com/blogs/architecture/announcing-the-updated-aws-well-architected-machine-learning-lens/)
-- 
+- [Automatic model evaluation jobs](https://docs.aws.amazon.com/bedrock/latest/userguide/evaluation-automatic.html) 
+- [Built-in evaluation metrics for LLM-as-a-judge](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-metrics.html)
