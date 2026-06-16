@@ -22,3 +22,4 @@
 - [Intelligent prompt routing](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
 - [AppConfig for dynamic configuration](https://docs.aws.amazon.com/appconfig/latest/userguide/what-is-appconfig.html)
 - [Circuit breaker pattern](https://martinfowler.com/bliki/CircuitBreaker.html)
+- [Circuit breaker pattern with step functions](https://aws.amazon.com/blogs/compute/using-the-circuit-breaker-pattern-with-aws-step-functions-and-amazon-dynamodb/)
