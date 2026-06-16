@@ -28,3 +28,4 @@
 - [SLO definition](https://sre.google/sre-book/service-level-objectives/)
 - [Application signals - SLI/SLO availability in CloudWatch](https://aws.amazon.com/blogs/mt/amazon-cloudwatch-application-signals-new-enhancements-for-application-monitoring/)
 - [Cost-allocation tags](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/activating-tags.html)
+- [Prompt caching](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-caching.html)
