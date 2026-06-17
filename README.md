@@ -74,3 +74,5 @@
 - [MCP registry in agent core](https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/)
 - [AgentCore Payments](https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/)
 - [Landing page for Agentcore doc](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html)
+- [Repo with Agentcore samples](https://github.com/awslabs/agentcore-samples/tree/main)
+- [Agentcore CLI](https://github.com/aws/agentcore-cli)
