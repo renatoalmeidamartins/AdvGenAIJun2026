@@ -55,3 +55,4 @@
 - [Transformers in AI](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
 - [Q can also be a knowledge base system, SaaS, based on the number of connectors](https://docs.aws.amazon.com/amazonq/latest/qbusiness-ug/connectors-list.html)
 - [Code w/ Claude London sessions - interesting to see how the basis for everything is eval, eval, eval](https://www.youtube.com/playlist?list=PLmWCw1CzcFilPJdvw6scjHjbBripZWFps)
+- [Transform for agentic-based migration of GenAI apps to Bedrock](https://aws.amazon.com/blogs/migration-and-modernization/migrate-your-ai-workloads-to-amazon-bedrock-with-aws-transform/)
