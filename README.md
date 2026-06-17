@@ -52,3 +52,5 @@
 - [Lambda best practices](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
 
 ### Day 2
+- [Transformers in AI](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
+- [Q can also be a knowledge base system, SaaS, based on the number of connectors](https://docs.aws.amazon.com/amazonq/latest/qbusiness-ug/connectors-list.html)
