@@ -4,6 +4,8 @@
 - [Access to lab and books](https://us-east-1.student.classrooms.aws.training/class/ilt%23kaGZbDug1jPqTMiswChYWZ)
 
 ## Class links
+
+### Day 1 
 - [Sagemaker built-in algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 - [Well architected framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 - Well-architected framework generative AI lens:
@@ -48,3 +50,5 @@
 - [Bedrock flow samples](https://github.com/aws-samples/amazon-bedrock-flows-samples)
 - [Optimize generative AI applications with pgvector indexing: A deep dive into IVFFlat and HNSW techniques](https://aws.amazon.com/blogs/database/optimize-generative-ai-applications-with-pgvector-indexing-a-deep-dive-into-ivfflat-and-hnsw-techniques/)
 - [Lambda best practices](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
+
+### Day 2
