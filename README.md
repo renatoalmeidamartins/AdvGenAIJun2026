@@ -113,3 +113,4 @@
 - [CloudWatch investigations announcement - Dec 2024](https://aws.amazon.com/blogs/mt/getting-started-with-amazon-q-developer-operational-investigations/)
 - [AIOps in the AWS Prescriptive guidance for "Modernizing operations in the AWS Cloud"](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-operations-integration/aiops.html)
 - [Binary classification model metrics - precision, accuracy, recall](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-operations-integration/aiops.html)
+- There are many benchmarks available, two relevant ones: [SWE-bench, which tests AI systems' ability to solve GitHub issues](https://www.swebench.com/) and [MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents](https://arxiv.org/html/2606.16748)
