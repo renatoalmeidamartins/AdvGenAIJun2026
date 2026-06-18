@@ -56,6 +56,7 @@
 - [Q can also be a knowledge base system, SaaS, based on the number of connectors](https://docs.aws.amazon.com/amazonq/latest/qbusiness-ug/connectors-list.html)
 - [Code w/ Claude London sessions - interesting to see how the basis for everything is eval, eval, eval](https://www.youtube.com/playlist?list=PLmWCw1CzcFilPJdvw6scjHjbBripZWFps)
 - [Transform for agentic-based migration of GenAI apps to Bedrock](https://aws.amazon.com/blogs/migration-and-modernization/migrate-your-ai-workloads-to-amazon-bedrock-with-aws-transform/)
+- Bedrock has mainly two APIs for invoking LLMs, the invokeModel and the converse. [Converse](https://docs.aws.amazon.com/bedrock/latest/userguide/conversation-inference.html) is ideal because its payload is not model-specific. It works with any model that supports messages (most of them). [InovkeModel](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_InvokeModel.html) expects model-specific payloads, making it hard to switch between models.
 - [Using prompt management programatically](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-management-code-ex.html)
 - [Strands SDK - tools available](https://github.com/strands-agents/tools)
 - [Using MCP with AgentCore, instead of calling tools/list, we can use tools/call, which uses natural language for finding the tools](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
