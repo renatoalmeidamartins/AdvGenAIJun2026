@@ -101,3 +101,8 @@
 - [Optimize LLM response costs and latency with effective caching](https://aws.amazon.com/blogs/database/optimize-llm-response-costs-and-latency-with-effective-caching/)
 - [Running and optimizing small language models on-premises and at the edge](https://aws.amazon.com/blogs/compute/running-and-optimizing-small-language-models-on-premises-and-at-the-edge/)
 - [Increase model invocation capacity with Provisioned Throughput in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prov-throughput.html)
+- [Measuring GitHub Copilot’s Impact on Productivity, published in Communications of the ACM](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/)
+- Interesting dashboarding books
+  - [Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
+  - [The Visual Display of Quantitative Information, by Edward Tufte](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142)
+  - [Beautiful Evidence, by Edward Tufte](https://www.amazon.com/Beautiful-Evidence-Edward-R-Tufte/dp/0961392177)
