@@ -1,4 +1,9 @@
 # AdvGenAIJun2026
+
+## My contact details
+- [Linkedin profile](https://www.linkedin.com/in/renatodealmeidamartins/)
+- email: renatoalmeidamartins@gmail.com
+  
 ## Info about class and labs
 - [Webex join link](https://prod.evcsp.aurous.training.aws.dev/link?activityPK=bc87cda8-9c44-49e4-914e-441df4bf3154)
 - [Access to lab and books](https://us-east-1.student.classrooms.aws.training/class/ilt%23kaGZbDug1jPqTMiswChYWZ)
