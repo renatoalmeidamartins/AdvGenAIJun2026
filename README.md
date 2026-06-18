@@ -112,3 +112,4 @@
   - [Amazon CloudWatch investigations now with incident report generation and 5 “whys” analysis ](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-incident-report/)
 - [CloudWatch investigations announcement - Dec 2024](https://aws.amazon.com/blogs/mt/getting-started-with-amazon-q-developer-operational-investigations/)
 - [AIOps in the AWS Prescriptive guidance for "Modernizing operations in the AWS Cloud"](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-operations-integration/aiops.html)
+- [Binary classification model metrics - precision, accuracy, recall](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-operations-integration/aiops.html)
