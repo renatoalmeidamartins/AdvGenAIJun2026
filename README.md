@@ -115,3 +115,7 @@
 - [Binary classification model metrics - precision, accuracy, recall](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-operations-integration/aiops.html)
 - There are many benchmarks available, two relevant ones: [SWE-bench, which tests AI systems' ability to solve GitHub issues](https://www.swebench.com/) and [MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents](https://arxiv.org/html/2606.16748)
 - [How to structure your prompt to obtain the biggest value from prompt caching](https://platform.claude.com/docs/en/build-with-claude/prompt-caching#structuring-your-prompt)
+- [AWS Interconnect is now generally available, with a new option to simplify last-mile connectivity](https://aws.amazon.com/blogs/aws/aws-interconnect-is-now-generally-available-with-a-new-option-to-simplify-last-mile-connectivity/)
+- [AWS and Google Cloud collaborate to simplify multicloud networking](https://aws.amazon.com/blogs/networking-and-content-delivery/aws-and-google-cloud-collaborate-to-simplify-multicloud-networking/)
+- [Attribute-Based Access Control (ABAC) for AWS](https://aws.amazon.com/identity/attribute-based-access-control/)
+- [Define permissions based on attributes with ABAC authorization](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction_attribute-based-access-control.html)
