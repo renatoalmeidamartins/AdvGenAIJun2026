@@ -106,3 +106,9 @@
   - [Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
   - [The Visual Display of Quantitative Information, by Edward Tufte](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142)
   - [Beautiful Evidence, by Edward Tufte](https://www.amazon.com/Beautiful-Evidence-Edward-R-Tufte/dp/0961392177)
+- [2025 Top 10 Announcements for AWS Cloud Operations](https://aws.amazon.com/blogs/mt/2025-top-10-announcements-for-aws-cloud-operations/), top 3 are the most relevant ones for this class:
+  - [Generative AI observability in Amazon CloudWatch and AgentCore Observability](https://aws.amazon.com/about-aws/whats-new/2025/10/generative-ai-observability-amazon-cloudwatch/)
+  - [Amazon CloudWatch application map now supports un-instrumented services discovery](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-application-map-un-instrumented-discovery/)
+  - [Amazon CloudWatch investigations now with incident report generation and 5 “whys” analysis ](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-incident-report/)
+- [CloudWatch investigations announcement - Dec 2024](https://aws.amazon.com/blogs/mt/getting-started-with-amazon-q-developer-operational-investigations/)
+- [AIOps in the AWS Prescriptive guidance for "Modernizing operations in the AWS Cloud"](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-operations-integration/aiops.html)
