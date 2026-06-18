@@ -114,3 +114,4 @@
 - [AIOps in the AWS Prescriptive guidance for "Modernizing operations in the AWS Cloud"](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-operations-integration/aiops.html)
 - [Binary classification model metrics - precision, accuracy, recall](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-operations-integration/aiops.html)
 - There are many benchmarks available, two relevant ones: [SWE-bench, which tests AI systems' ability to solve GitHub issues](https://www.swebench.com/) and [MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents](https://arxiv.org/html/2606.16748)
+- [How to structure your prompt to obtain the biggest value from prompt caching](https://platform.claude.com/docs/en/build-with-claude/prompt-caching#structuring-your-prompt)
